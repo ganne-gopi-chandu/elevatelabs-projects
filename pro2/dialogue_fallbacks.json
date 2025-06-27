@@ -1,0 +1,8 @@
+{
+  "fallbacks": {
+    "anxious": "I'm sorry you're feeling anxious. I'm here with you.",
+    "lonely": "You're not alone. Would you like to talk more about it?",
+    "sad": "That sounds tough. I'm here to listen if you'd like to share more."
+  }
+}
+
